@@ -1,4 +1,6 @@
-### Hi there 👋
+### If you're reading this, hi there 👋
+![Visitor Count]https://profile-counter.glitch.me/chelseyqc/count.svg)
+
 
 <!--
 **chelseyqc/chelseyqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
