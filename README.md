@@ -1,5 +1,5 @@
 ### If you're reading this, hi there 👋
-![Visitor Count]https://profile-counter.glitch.me/chelseyqc/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/chelseyqc/count.svg)
 
 
 <!--
