@@ -7,9 +7,14 @@
 
 ---
 
+<div id="header" align="center">
+  <img src="https://uploads-ssl.webflow.com/603c87adb15be3cb0b3ed9b5/61bf09f5be7634261e9b0358_5.png" width="200"/>
+</div> 
+
 ![Visitor Count](https://profile-counter.glitch.me/chelseyqc/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelseyqc)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **chelseyqc/chelseyqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
