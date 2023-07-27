@@ -30,6 +30,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelseyqc"</p>
 
+<div align="right">
+  <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/398783257/android/sticker.png?v=1" width="200"/>
+</div> 
+
 <!--
 **chelseyqc/chelseyqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
