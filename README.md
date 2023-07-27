@@ -37,9 +37,12 @@
 &nbsp;
 </div>
 
-<div id="footer" align="center">
-  <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/398783257/android/sticker.png?v=1" width="200"/>
-</div> 
+<p align="center">
+  <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/398783257/android/sticker.png?v=1" width="100" />
+  <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/398783257/android/sticker.png?v=1" width="100" />
+  <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/398783257/android/sticker.png?v=1" width="100" />
+</p>
+
 
 <!--
 **chelseyqc/chelseyqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
