@@ -27,10 +27,17 @@
   <img src="https://uploads-ssl.webflow.com/603c87adb15be3cb0b3ed9b5/61bf09f5be7634261e9b0358_5.png" width="200"/>
 </div> 
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelseyqc"</p>
+-->
 
-<div align="right">
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=chelseyqc&show_icons=true" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelseyqc&langs_count=8&layout=compact" />
+&nbsp;
+</div>
+
+<div id="footer" align="center">
   <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/398783257/android/sticker.png?v=1" width="200"/>
 </div> 
 
