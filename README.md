@@ -37,7 +37,7 @@
 <a href="https://github.com/chelseyqc">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
-<b>...watch this space 👀</b>
+<em>...watch this space 👀</em>
 
 
 <br>
