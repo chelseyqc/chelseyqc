@@ -5,21 +5,28 @@
   If you're reading this, hi there 👋
 </p>
 
-<p><img align="right" src="https://profile-counter.glitch.me/chelseyqc/count.svg"</p>
+
+<div align="center">
+<p><img align="center" src="https://profile-counter.glitch.me/chelseyqc/count.svg"</p>
+</div>
+<br>
 
 ---
 
 <div id="header" align="center">
   <img src="https://uploads-ssl.webflow.com/603c87adb15be3cb0b3ed9b5/61bf097bc69c24692f6457b4_3-p-500.png" width="200"/>
 </div> 
-
-<p align="center">
-  🌱 I'm currently learning:
   
-  - <img src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" width="20"/> Shell
-  - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="20"/> C
-    
-</p>
+
+<div align="center">🌱 Languages and Tools 🌱 </div>
+<a href="https://github.com/chelseyqc/holbertonschool-shell"> <img align="left" alt="Shell" width="50px" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
+</a>
+<a href="https://github.com/chelseyqc/holbertonschool-low_level_programming">
+  <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
+</a>
+
+<br>
+<br>
 
 ---
 
