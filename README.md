@@ -2,7 +2,7 @@
   <img src="https://uploads-ssl.webflow.com/603c87adb15be3cb0b3ed9b5/61bf0b5c372eeeb5d44b6b5f_6.png" width="200"/>
 </div> 
 <p align="center">
- 👋 If you're reading this, hi there 👋
+ <b>👋 If you're reading this, hi there 👋</b>
 </p>
 
 
@@ -18,7 +18,7 @@
 </div> 
   
 
-<div align="center">🌱 Languages and Tools 🌱 </div>
+<div align="center"><b>🌱 Languages and Tools 🌱</b></div>
 <br>
 <a href="https://github.com/chelseyqc/holbertonschool-shell"> <img align="left" alt="Shell" width="50px" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
 </a>
@@ -37,6 +37,7 @@
 <a href="https://github.com/chelseyqc">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
+<b>...watch this space 👀</b>
 
 
 <br>
@@ -52,6 +53,12 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelseyqc"</p>
 -->
+
+<div align="center">
+  <b>😎 My Github Stats 😎</b>
+</div>
+
+<br>
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=chelseyqc&show_icons=true" />
