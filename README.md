@@ -20,10 +20,10 @@
 
 <div align="center"><b>🌱 Languages and Tools 🌱</b></div>
 <br>
-<a href="https://github.com/chelseyqc/holbertonschool-shell"> <img align="left" alt="Shell" width="50px" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
-</a>
 <a href="https://github.com/chelseyqc/holbertonschool-zero_day">
   <img align="left" alt="git" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</a>
+<a href="https://github.com/chelseyqc/holbertonschool-shell"> <img align="left" alt="Shell" width="50px" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
 </a>
 <a href="https://github.com/chelseyqc/holbertonschool-low_level_programming">
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
