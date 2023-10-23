@@ -37,6 +37,9 @@
 <a href="https://github.com/chelseyqc">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
+<a href="https://github.com/chelseyqc/holbertonschool-higher_level_programming">
+  <img align="left" alt="python" width="50px" height="50px" src="https://i.pinimg.com/originals/95/91/ed/9591ed82caa8d20c30db96cb7298d3a9.png" />
+</a>
 <em>...watch this space 👀</em>
 
 
